@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/Documents/LU-courses/AIDE505/code%20works/dvc/dvc/mlruns/278704369678927402/bfcc88224c4b48228ed853f5cab65912/artifacts
+end_time: 1741423576988
+entry_point_name: ''
+experiment_id: '278704369678927402'
+lifecycle_stage: active
+run_id: bfcc88224c4b48228ed853f5cab65912
+run_name: bedecked-hog-207
+run_uuid: bfcc88224c4b48228ed853f5cab65912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741423570047
+status: 3
+tags: []
+user_id: user
